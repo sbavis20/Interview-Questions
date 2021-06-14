@@ -1,0 +1,60 @@
+Java OOPs Interview Questions
+
+OOPs
+Object oriented programming. real world applications.
+
+Need
+maintaince implementation redability
+
+Features
+Inheritance 				Encapsulation 				Polymorphism 					Data Abstraction
+child class access			Data hiding/				multiple forms					data hide/
+parent class properties		data protection												complexity reduce
+
+Advantages
+solving complex problems
+code reuse
+hide unneccessary details 
+flexibility
+
+--------------Advance------------------
+What is class?
+template or blue print 
+contains values etc.
+
+What is object?
+instance of class.
+
+Encapsulation 
+Data Hiding -- restricting access to any member of an object 
+Data binding -- data members and the methods together as a whole.
+
+Polymorphism
+eg: shapes: circle square triangle rhombus
+
+What is compile time polymorphism and how it is different from runtime polymorphism?
+				Types of Polymorphism
+Compile Time					  Run time
+(Static or						(Dynamic or
+Early binding)					 Late Binding)
+
+Compiler decides 				Cant be decided 
+								by compiler, dependes on execution
+
+How much memory does a class occupy?
+do not consume any memory. When objects are created they actually initialize the class member and methods and consume memory.
+
+What is contructor?
+name same as class name.
+Myclass myclass = new Myclass();
+
+What is copy constructor?
+copy object to another. 
+clone an object and its values, into another object.
+
+What are types of inheritance?
+Single Multiple Multilevel Hierarchical Hybrid
+
+java does not support multiple inheritance.
+
+
